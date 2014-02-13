@@ -10,7 +10,7 @@ namespace Monsterbutikken.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            return Redirect("/index.html");
         }
     }
 }
