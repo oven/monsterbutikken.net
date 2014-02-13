@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monsterbutikken", "Monsterbutikken\Monsterbutikken.csproj", "{20AEB4F5-8BD0-475F-86EC-A3B7B96EC280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monsterbutikken.Tests", "Monsterbutikken.Tests\Monsterbutikken.Tests.csproj", "{6CF6D5F6-974F-48B5-A27D-ADC6957E9BEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20AEB4F5-8BD0-475F-86EC-A3B7B96EC280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20AEB4F5-8BD0-475F-86EC-A3B7B96EC280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20AEB4F5-8BD0-475F-86EC-A3B7B96EC280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20AEB4F5-8BD0-475F-86EC-A3B7B96EC280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CF6D5F6-974F-48B5-A27D-ADC6957E9BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF6D5F6-974F-48B5-A27D-ADC6957E9BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF6D5F6-974F-48B5-A27D-ADC6957E9BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF6D5F6-974F-48B5-A27D-ADC6957E9BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
