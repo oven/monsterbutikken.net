@@ -121,14 +121,18 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app.js" />
+    <Content Include="butikk.html" />
+    <Content Include="butikkControllers.js" />
     <Content Include="img\logo.png" />
     <Content Include="img\white_wall_hash.png" />
     <Content Include="index.html" />
-    <Content Include="monsterbutikken.css" />
-    <Content Include="monsterButikkenControllers.js" />
-    <Content Include="monsterButikkenServices.js" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="login.html" />
+    <Content Include="loginController.js" />
+    <Content Include="serverMock.js" />
+    <Content Include="services.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
